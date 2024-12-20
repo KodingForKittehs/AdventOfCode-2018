@@ -1,0 +1,6 @@
+.venv/
+input*
+sample*
+*.pyc
+*_stuff.py
+*.png

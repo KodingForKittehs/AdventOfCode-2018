@@ -1,0 +1,7 @@
+cairocffi
+igraph
+numpy
+shapely
+matplotlib
+z3-solver
+pygame
